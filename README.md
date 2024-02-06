@@ -1,9 +1,6 @@
 # Indian Stock Forecasting using LSTM
 # Introduction
-This project focuses on predicting stock prices using a Long Short-Term Memory (LSTM) model. We utilize historical data including the closing price of the stock to train the model and make predictions.
-
-# Data Collection
-We collected historical stock data including the closing prices.
+This project focuses on predicting stock prices using a Long Short-Term Memory (LSTM) model. We utilize historical data including the closing price of the stock to train the model and make predictions. **We collected historical stock data including the closing prices.**
 
 # Data Preprocessing
 Date vs Closing price graph
